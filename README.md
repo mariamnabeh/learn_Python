@@ -4,7 +4,7 @@ A Python learning repository for beginners and students. including fundamentals,
 
 ---
 
-## 📌 Topics Covered
+## Topics Covered
 
 - Python basics
 - Control flow
@@ -24,7 +24,7 @@ This repository now includes Python practice questions and exercises to help rei
 
 ---
 
-## 🛠️ How to Use
+## How to Use
 
 1. Clone the repository:
    ```bash
@@ -40,7 +40,7 @@ This repository now includes Python practice questions and exercises to help rei
 
 ---
 
-## 📚 Contributing
+## Contributing :)
 
 Feel free to contribute by adding more topics, explanations, or practice questions!
 
