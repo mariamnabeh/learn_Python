@@ -1,6 +1,6 @@
 # let's_learn_Python
 
-A Python learning repository for beginners and students. including fundamentals, explanations🐍.
+A Python learning repository for beginners and students. including fundamentals, explanations.
 
 ---
 
@@ -17,7 +17,7 @@ A Python learning repository for beginners and students. including fundamentals,
 
 ---
 
-## ❓ Python Questions
+## Python Questions
 
 This repository now includes Python practice questions and exercises to help reinforce your learning. Test your knowledge and improve your problem-solving skills!
 
