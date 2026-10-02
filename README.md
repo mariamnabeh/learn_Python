@@ -12,8 +12,7 @@ A Python learning repository for beginners and students. including fundamentals,
 - Data structures
 - Other introductory concepts
 
-> 🚧 **Note**  
-> Some topics such as **Data Types**, **Variables**, **If Statements**, and a few other topics are currently **not available** or **not fully completed**.  
+> 🚧 **Note**   
 > These sections will be updated and improved soon with better explanations and examples.
 
 ---
