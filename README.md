@@ -12,9 +12,6 @@ A Python learning repository for beginners and students. including fundamentals,
 - Data structures
 - Other introductory concepts
 
-> 🚧 **Note**   
-> These sections will be updated and improved soon with better explanations and examples.
-
 ---
 
 ## Python Questions
